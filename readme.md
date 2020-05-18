@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 ### Source: 
-(Click Here)[https://www.kaggle.com/mlg-ulb/creditcardfraud]
+[Click Here](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ### Context:
 It is important that credit card companies are able to recognize fraudulent credit card 
@@ -21,11 +21,15 @@ Feature 'Class' is the response variable and it takes value 1 in case of fraud a
 
 ### Project overview
 1.Exploratory Data Analysis (EDA)
+
 2.Data Preprocessing and decomposition
+
 3.Train and Test Split
+
 3.Application of Machine Learning Algorithms (using scikit-learn for python)
     a)Logistic Regression
     b)Random Forest Classifier
     c)Naive Bayes Classifier
     d)Support Vector Machine
+    
 4.Results and Comparison.
