@@ -27,6 +27,7 @@ Feature 'Class' is the response variable and it takes value 1 in case of fraud a
 3.Train and Test Split
 
 3.Application of Machine Learning Algorithms (using scikit-learn for python)
+
     a)Logistic Regression
     b)Random Forest Classifier
     c)Naive Bayes Classifier
